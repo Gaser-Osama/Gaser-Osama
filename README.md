@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=I+am+Gasser+Osama" alt="I'm Gasser Osama" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=I'm+Gasser+Osama" alt="I'm Gasser Osama" />
 
 <br><br>
 
