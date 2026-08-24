@@ -1,12 +1,18 @@
 <div align="center">
 
-# Hi, I'm Gasser Osama 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gasser+Osama+%F0%9F%91%8B;Computer+Science+Student+%40+Ain+Shams+University;Exploring+Technology+%F0%9F%92%BB;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Computer Science Student @ Ain Shams University
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Coding animation"/>
+
+<br>
+
+### 💻 Computer Science Student @ Ain Shams University
 
 **Technology • Software Development • AI**
 
-*Learning, building, and growing one project at a time.* 🚀
+*Learning, building, experimenting, and growing one project at a time.* 🚀
 
 </div>
 
@@ -16,9 +22,11 @@
 
 I'm a Computer Science student at **Ain Shams University** with a strong interest in technology, software development, and artificial intelligence.
 
-I'm currently building my foundation in Computer Science, improving my programming skills, and turning what I learn into practical projects.
+I'm currently building my foundation in Computer Science, improving my programming skills, and exploring different areas of technology to discover where I want to specialize.
 
-I believe in learning by building, experimenting, and continuously improving.
+I enjoy learning through practice, experimenting with new tools, and turning what I learn into practical projects.
+
+> 🎯 **My current goal:** Build a strong foundation, explore different fields, and become a better problem solver and developer step by step.
 
 ---
 
@@ -29,7 +37,7 @@ I believe in learning by building, experimenting, and continuously improving.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-### Tools & Skills
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
@@ -37,7 +45,9 @@ I believe in learning by building, experimenting, and continuously improving.
 
 ### Exploring
 
-* 🤖 AI Tools & Productivity
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+
+* 🤖 AI Tools & Applications
 * 💻 Computer Science & Programming Fundamentals
 * 🌐 Web Development
 
@@ -52,21 +62,38 @@ I believe in learning by building, experimenting, and continuously improving.
 
 ---
 
-## 🚀 My Goals
+## 🚀 What I'm Working Toward
+
+* 📚 Building a strong foundation in Computer Science
+* 💻 Improving my programming and problem-solving skills
+* 🌐 Developing practical web projects
+* 🧠 Exploring Artificial Intelligence
+* 🔍 Exploring different areas of technology before choosing my specialization
+* 🛠️ Building projects and documenting my learning journey
+
+---
+
+## 🎯 My Goals
 
 * Build a strong foundation in Computer Science
 * Become a skilled software developer
-* Explore different areas of technology before choosing my specialization
+* Explore different areas of technology
 * Build real-world projects
-* Gain practical experience through internships
+* Gain internships and practical experience
 * Contribute to open-source projects
-* Continuously improve my problem-solving skills
+* Keep learning and improving continuously
 
 ---
 
 ## 📂 Featured Projects
 
-*Projects will be added here as I build them.*
+<div align="center">
+
+🚧 **Projects are coming soon...**
+
+I'm currently learning, building my foundation, and preparing to turn what I learn into real projects.
+
+</div>
 
 ---
 
@@ -90,8 +117,24 @@ I believe in learning by building, experimenting, and continuously improving.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -101,5 +144,7 @@ I believe in learning by building, experimenting, and continuously improving.
 <div align="center">
 
 ### 🚀 Learning → Building → Growing
+
+<img src="https://komarev.com/ghpvc/?username=Gasser-Osama&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
 
 </div>
