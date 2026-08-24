@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Coding animation"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Coding animation"/>
 
 <br>
 
@@ -43,7 +43,6 @@ I enjoy learning through practice, experimenting with new tools, and turning wha
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 
@@ -93,7 +92,7 @@ I enjoy learning through practice, experimenting with new tools, and turning wha
 
 <div align="center">
 
-🚧 **Projects are coming soon...**
+🚧 **Projects will be added soon...**
 
 I'm currently learning, building my foundation, and preparing to turn what I learn into real projects.
 
