@@ -4,11 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=I+am+Gasser+Osama" alt="I am Gasser Osama" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=I+am+Gasser+Osama" alt="I'm Gasser Osama" />
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Coding animation"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Coding animation"/>
 
 <br>
 
