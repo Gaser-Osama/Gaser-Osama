@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gasser+Osama+%F0%9F%91%8B;Computer+Science+Student+%40+Ain+Shams+University;Exploring+Technology+%F0%9F%92%BB;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=500&lines=Hello+Coders+%F0%9F%91%8B" alt="Hello Coders" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=I+am+Gasser+Osama" alt="I am Gasser Osama" />
+
+<br><br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Coding animation"/>
 
@@ -26,7 +30,7 @@ I'm currently building my foundation in Computer Science, improving my programmi
 
 I enjoy learning through practice, experimenting with new tools, and turning what I learn into practical projects.
 
-> 🎯 **My current goal:** Build a strong foundation, explore different fields, and become a better problem solver and developer step by step.
+> 🎯 **My current goal:** Build a strong foundation, explore different fields, and become a better problem solver step by step.
 
 ---
 
