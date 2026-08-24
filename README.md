@@ -100,18 +100,6 @@ I'm currently learning, building my foundation, and preparing to turn what I lea
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gasser-Osama&show_icons=true&hide_border=true&rank_icon=github" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gasser-Osama&layout=compact&hide_border=true" width="41%">
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -147,7 +135,5 @@ I'm currently learning, building my foundation, and preparing to turn what I lea
 <div align="center">
 
 ### 🚀 Learning → Building → Growing
-
-<img src="https://komarev.com/ghpvc/?username=Gasser-Osama&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
 
 </div>
